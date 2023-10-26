@@ -1,0 +1,15 @@
+127.0.0.1 - - [23/Oct/2023:09:32:25 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:07 -0300] "GET /loteria/login HTTP/1.1" 200 3110
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:07 -0300] "GET /loteria/login HTTP/1.1" 200 3110
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:18 -0300] "GET /loteria/vendor/fontawesome-free/css/all.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:18 -0300] "GET /loteria/css/sb-admin-2.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:23 -0300] "GET /loteria/vendor/jquery/jquery.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:23 -0300] "GET /loteria/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:23 -0300] "GET /loteria/vendor/jquery-easing/jquery.easing.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:29 -0300] "GET /loteria/js/sb-admin-2.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:09:33:43 -0300] "GET /loteria/img/login-fundo.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [23/Oct/2023:10:23:33 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:10:24:13 -0300] "GET /loteria/login HTTP/1.1" 200 3022
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:10:24:13 -0300] "GET /loteria/dashboard;jsessionid=A18A25FB3CE2CB3392BA7D2405A82CAC HTTP/1.1" 200 8206
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:10:29:30 -0300] "GET /loteria/cadastrar HTTP/1.1" 200 3426
+0:0:0:0:0:0:0:1 - - [23/Oct/2023:10:29:31 -0300] "GET /loteria/img/cadastrar-fundo.png HTTP/1.1" 304 -

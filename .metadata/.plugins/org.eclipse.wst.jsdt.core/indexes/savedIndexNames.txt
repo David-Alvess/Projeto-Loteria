@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1579611850.index

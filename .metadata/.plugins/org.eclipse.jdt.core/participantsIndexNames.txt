@@ -1,0 +1,21 @@
+INDEX VERSION 1.134
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2080248418.index
+\intro-spring\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3477974456.index
+\projetovraptor\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3230308304.index
+\loteria\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1973929584.index
+\loteria\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\362150125.index
+\intro-spring\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1244058943.index
+\intro-spring\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2133723614.index
+\loteria\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1608280673.index
+\loteria\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3489272025.index
+\loteria\src\main\java
+C:\Users\David\Desktop\David\SPI\Projetos\jogo loteria\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\579632077.index
+\intro-spring\src\main\java
